@@ -76,10 +76,11 @@ document.addEventListener('DOMContentLoaded', () => {
     /* --- Custom Typing Effect --- */
     const typedTextSpan = document.querySelector('.typed-text');
     const textArray = [
-        "Computer Science & Engineering Student",
-        "Aspiring Full Stack Developer",
-        "Problem Solver"
-    ];
+    "Computer Science & Engineering Student",
+    "Full Stack Developer",
+    "Generative AI Enthusiast",
+    "Python Developer"
+];
     const typingDelay = 100;
     const erasingDelay = 50;
     const newTextDelay = 2000;
